@@ -5,7 +5,7 @@ public class SistemaAnimais {
         Scanner sc = new Scanner(System.in);
         GerenciadorAnimais gerenciador = new GerenciadorAnimais();
 
-        String animalEscondido = "Leão";
+        String animalEscondido = "Dromedário";
 
         int opcao;
 
